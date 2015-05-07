@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- BUILD TWEAKS -->
-    <string name="header_category_chroma">Personalization</string>
+    <string name="header_category_chroma">个性化</string>
     <string name="chroma_settings_title">Chroma</string>
 
     <!-- About phone screen, build date of ROM -->
@@ -10,132 +10,132 @@
     <string name="build_date_default">2015-01-01-0000</string>
 
     <!-- Chroma Menu -->
-    <string name="chroma_menu_personalizaton">Chroma options</string>
-    <string name="chroma_menu_about">About Chroma</string>
-    <string name="status_bar_screen_title">Status bar</string>
-    <string name="navigation_bar_screen_title">Navigation bar</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_rocker_screen_title">Volume rocker</string>
+    <string name="chroma_menu_personalizaton">Chroma 选项</string>
+    <string name="chroma_menu_about">关于 Chroma</string>
+    <string name="status_bar_screen_title">状态栏</string>
+    <string name="navigation_bar_screen_title">导航栏</string>
+    <string name="power_menu_title">电源菜单</string>
+    <string name="volume_rocker_screen_title">音量键</string>
     <!-- Battery and clock category -->
-    <string name="display_category_batteryclock_options_title">Battery and clock options</string>
+    <string name="display_category_batteryclock_options_title">电池和时钟选项</string>
     <!-- Navigation bar category -->
-    <string name="display_category_navbar_options_title">Navigation bar options</string>
-    <string name="display_category_navring_options_title">Navigation ring options</string>
+    <string name="display_category_navbar_options_title">导航栏选项</string>
+    <string name="display_category_navring_options_title">导航环选项</string>
     <!-- Status bar category -->
-    <string name="display_category_statusbar_options_title">Status bar options</string>
+    <string name="display_category_statusbar_options_title">状态栏选项</string>
     <!-- Recent apps category -->
-    <string name="display_category_recents_options_title">Recent apps options</string>
+    <string name="display_category_recents_options_title">最近应用列表选项</string>
     <!-- Power menu category -->
-    <string name="display_category_power_options_title">Power menu options</string>
+    <string name="display_category_power_options_title">电源菜单选项</string>
     <!-- QS Tiles -->
-    <string name="qs_category_title">Quick settings</string>
+    <string name="qs_category_title">快捷设置</string>
 
     <!-- BitSyko Layers -->
-    <string name="bitsyko_layers">Layers</string>
+    <string name="bitsyko_layers">层面主题</string>
 
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
-    <string name="supersu_title">SuperSU</string>
+    <string name="supersu_title">超级用户</string>
 
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">屏幕旋转</string>
+    <string name="display_rotation_disabled">禁用</string>
+    <string name="display_rotation_unit">度</string>
+    <string name="display_rotation_category_title">旋转模式</string>
+    <string name="display_rotation_0_title">0 度</string>
+    <string name="display_rotation_90_title">90 度</string>
+    <string name="display_rotation_180_title">180 度</string>
+    <string name="display_rotation_270_title">270 度</string>
 
     <!-- Statusbar native battery percent -->
-    <string name="general_string">General</string>
-    <string name="status_bar_title">Status bar</string>
-    <string name="status_bar_native_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_native_battery_percentage_summary">Show hidden percentage</string>
+    <string name="general_string">全局</string>
+    <string name="status_bar_title">状态栏</string>
+    <string name="status_bar_native_battery_percentage_title">电量百分比</string>
+    <string name="status_bar_native_battery_percentage_summary">显示电量百分比</string>
 
     <!-- Developer options - kill app long press back -->
-    <string name="kill_app_longpress_back">Kill app back button</string>
-    <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back key</string>
+    <string name="kill_app_longpress_back">返回键关闭程序</string>
+    <string name="kill_app_longpress_back_summary">长按返回键关闭当前程序</string>
 
     <!-- Generic strings -->
     <string name="ok_string">Ok</string>
-    <string name="default_string">Default</string>
-    <string name="enabled_string">Enabled</string>
-    <string name="disabled_string">Disabled</string>
-    <string name="general_string">General</string>
-    <string name="reset_string">Reset</string>
-    <string name="empty_string">Empty</string>
-    <string name="attention">Attention</string>
+    <string name="default_string">默认</string>
+    <string name="enabled_string">启用</string>
+    <string name="disabled_string">禁用</string>
+    <string name="general_string">全局</string>
+    <string name="reset_string">重置</string>
+    <string name="empty_string">空</string>
+    <string name="attention">注意</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">颜色选择器</string>
+    <string name="press_color_to_apply">点击下面的颜色来应用</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">设置</string>
+    <string name="color_default">默认</string>
 
     <!-- Status bar | Clock -->
-    <string name="status_bar_clock">Clock &amp; date</string>
-    <string name="status_bar_clock_title">Clock &amp; date style</string>
-    <string name="status_bar_clock_summary">Change various clock &amp; date options</string> 
-    <string name="clock_title_enable">Alignment</string>
-    <string name="clock_enabled">Enabled</string>
-    <string name="clock_disabled">Disabled</string>
-    <string name="status_bar_show_clock_title">Show clock &amp; date</string>
-    <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="enable_clock_weekday">Day of the week</string>
-    <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
-    <string name="right_clock">Right clock</string>
-    <string name="center_clock">Center clock</string>
-    <string name="left_clock">Left clock</string>
-    <string name="dont_show">Don\'t show</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
-    <string name="am_pm_clock_normal">Normal font size</string>
-    <string name="am_pm_clock_small">Small font size</string>
-    <string name="am_pm_clock_none">Don\'t show</string>
-    <string name="clock_date_display_none">Don\'t show</string>
-    <string name="clock_date_display_small">Small font size</string>
-    <string name="clock_date_display_normal">Normal font size</string>
-    <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
+    <string name="status_bar_clock">时钟 &amp; 日期</string>
+    <string name="status_bar_clock_title">时钟 &amp; 日期风格</string>
+    <string name="status_bar_clock_summary">更改时钟 &amp; 日期选项</string> 
+    <string name="clock_title_enable">时钟位置</string>
+    <string name="clock_enabled">启用</string>
+    <string name="clock_disabled">禁用</string>
+    <string name="status_bar_show_clock_title">显示时钟 &amp; 日期</string>
+    <string name="status_bar_am_pm_title">上午/下午</string>
+    <string name="status_bar_am_pm_info">已启用24小时制</string>
+    <string name="enable_clock_weekday">星期显示</string>
+    <string name="enable_clock_weekday_summary">在时钟前显示星期</string>
+    <string name="right_clock">时钟居右</string>
+    <string name="center_clock">时钟居中</string>
+    <string name="left_clock">时钟居左</string>
+    <string name="dont_show">不显示</string>
+    <string name="clock_date_display">日期</string>
+    <string name="clock_date_display_summary">在时钟前显示自定义日期</string>
+    <string name="clock_date_style">日期风格</string>
+    <string name="clock_date_format">日期格式</string>
+    <string name="clock_date_string_edittext_title">必须是日期格式 例如. MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">输入字符</string>
+    <string name="am_pm_clock_normal">正常字体</string>
+    <string name="am_pm_clock_small">小号字体</string>
+    <string name="am_pm_clock_none">不显示</string>
+    <string name="clock_date_display_none">不显示</string>
+    <string name="clock_date_display_small">小号字体</string>
+    <string name="clock_date_display_normal">正常字体</string>
+    <string name="clock_date_style_normal">正常</string>
+    <string name="clock_date_style_lowercase">小写</string>
+    <string name="clock_date_style_uppercase">大写</string>
+    <string name="clock_date_format_custom">自定义日期格式</string>
     
     <!-- Wakeup options -->
-    <string name="display_category_wakeup_options_title">Wakeup options</string>
-    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+    <string name="display_category_wakeup_options_title">唤醒选项</string>
+    <string name="wakeup_when_plugged_unplugged_title">充电时唤醒</string>
+    <string name="wakeup_when_plugged_unplugged_summary">充电器插入/拔出时唤醒设备</string>
 
     <!-- Status bar - Battery -->
-    <string name="status_bar_battery_title">Battery icons</string>
-    <string name="status_bar_battery_summary">Change battery icons</string>
-    <string name="status_bar_battery_style_title">Battery status style</string>
-    <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
-    <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_text">Text</string>
-    <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_title">电池图标</string>
+    <string name="status_bar_battery_summary">更改电池图标</string>
+    <string name="status_bar_battery_style_title">电池显示风格</string>
+    <string name="status_bar_battery_style_icon_portrait">竖直</string>
+    <string name="status_bar_battery_style_icon_landscape">横置</string>
+    <string name="status_bar_battery_style_circle">环形</string>
+    <string name="status_bar_battery_style_text">纯文字</string>
+    <string name="status_bar_battery_style_hidden">隐藏</string>
 
     <!-- Status bar - Battery percentage -->
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden (default)</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+    <string name="status_bar_battery_percentage_title">电量百分比</string>
+    <string name="status_bar_battery_percentage_default">隐藏 (默认)</string>
+    <string name="status_bar_battery_percentage_text_inside">在图标内</string>
+    <string name="status_bar_battery_percentage_text_next">在图标右侧</string>
 
     <!-- QuickSettings: Quick Pulldown -->
-    <string name="title_quick_pulldown">Quick pulldown</string>
-    <string name="summary_quick_pulldown">%1$s edge of the status bar pulls down quick settings</string>
-    <string name="quick_pulldown_off">Off</string>
-    <string name="quick_pulldown_left">Left</string>
-    <string name="quick_pulldown_right">Right</string>
+    <string name="title_quick_pulldown">快速下拉</string>
+    <string name="summary_quick_pulldown">%1$s 在状态栏边缘下拉显示快捷设置</string>
+    <string name="quick_pulldown_off">关闭</string>
+    <string name="quick_pulldown_left">左侧</string>
+    <string name="quick_pulldown_right">右侧</string>
 
     <!-- Status bar double-tap to sleep -->
     <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
@@ -274,9 +274,9 @@
     <string name="power_menu_bug_report_disabled">Bug reporting is disabled in development settings</string>
 
     <!-- Preference category for LAN development settings. [CHAR LIMIT=25] -->
-    <string name="debug_LAN_category">LAN Settings</string>
+    <string name="debug_LAN_category">局域网设置</string>
     <!-- Hostname setting -->
-    <string name="device_hostname">Device hostname</string>
+    <string name="device_hostname">设备主机名</string>
 
     <!-- Navigation bar cursor -->
     <string name="navigation_bar_arrow_keys_title">Show arrow keys while typing</string>
@@ -660,12 +660,12 @@
     <string name="app_ops_labels_data_change">Data change</string>
 
     <!-- App ops categories -->
-    <string name="app_ops_categories_location">Location</string>
+    <string name="app_ops_categories_location">位置</string>
     <string name="app_ops_categories_personal">Personal</string>
     <string name="app_ops_categories_messaging">Messaging</string>
-    <string name="app_ops_categories_media">Media</string>
-    <string name="app_ops_categories_device">Device</string>
-    <string name="app_ops_categories_bootup">Bootup</string>
+    <string name="app_ops_categories_media">媒体</string>
+    <string name="app_ops_categories_device">设备</string>
+    <string name="app_ops_categories_bootup">自启管理</string>
 
     <!-- Bluetooth settings.  A checkbox to set if we should accept all the file types regardless of their presence in MIME type whitelist -->
     <string name="bluetooth_accept_all_files">Accept all file types</string>
